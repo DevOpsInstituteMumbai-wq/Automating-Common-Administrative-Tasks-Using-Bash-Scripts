@@ -18,7 +18,7 @@ This project provides a set of Bash scripts to automate common system administra
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/bash-automation.git
+   git clone https://github.com/DevOpsInstituteMumbai-wq/Automating-Common-Administrative-Tasks-Using-Bash-Scripts.git
    cd bash-automation
    ```
 2. Grant execution permissions to the scripts:
